@@ -8,7 +8,9 @@ For me, this means no printing of hashed records for changed files through the b
 
 I have reported this to staff I see most associated to IT related matters here in the library. 
 
+This screenrecording illustrates what I am trying to describe: https://cybertrapped.substack.com/p/chrome-15107922110-and-15107922109
 
+At the videos timestamp 00:00:51.110, after I pressed the Enter key for the first time, instead of Saving the file, the cursor backtracks to the FIlePickers filename field. This is why the background of the filename field is AGAIN highlighted with a blue background.
 
 Cybertrapped
 San Carlos Public Library
