@@ -1,0 +1,15 @@
+I am using computers in public libraries because when I use a computer of my own, the hackers can control even the mouse. 
+
+Since the Chrome version 151, in this computer 151.0.7922.109 (Official Build) (64-bit) (cohort: Stable) , but I have observed the same behavior in another computer that has a version like 151.0.7922.110, for any given day (keep in mind that apparently the computer are wiped. So each new day, we can presume a clean slate), after the first print or download, the Save button of the file picker that opens if I want to save a printout PDF or download a file, is unresponsive on the first try. I am equired to click again for the button to work. After this second use of the Save button, the anomalous route (i.e., I click the second time), then the browser appears to work as before. 
+
+From my experience with persistent hacking, I have learned that coincidences are unlikely, and that behavior that is out of line of proper functioning is a symptom of a hacked device. So I think that this unresponsive Save button on the second use for the day, and which requires a second Enter key press, may be a way for the hackers to leak memory and bypass whatever security Chrome offers. 
+
+For me, this means no printing of hashed records for changed files through the browser, and no screen recordings through Chrome. Perhaps I end up using Firefox. I am unsure. 
+
+I have reported this to staff I see most associated to IT related matters here in the library. 
+
+
+
+Cybertrapped
+San Carlos Public Library
+San Mateo County, California
