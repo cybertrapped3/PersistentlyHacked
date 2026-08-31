@@ -1,6 +1,12 @@
-As I tried to login to ChatGPT (when I signed up I was not presented with the option to set a password, and the hackers somehow got the account to fore me into having to get an emailed code everytime I am trying to login) I did not received the first code. I use proton email, and also, the HTML is corrupted and is always presenting modals and tooltips with offers and such, so I try to dodge their fuckeries. THe supposed email with code was not arriving. In the last few days, since Chrome version 151, I am disabled from recording the chrome net-export b/c apparently the memory (which in the past worked perfectly fine) now cannot handle such large files and it stops capturing the net-export. In otherwords, it truncates the file, and I cannot upload it to https://netlog-viewer.appspot.com/
+Authentication Process & Delay: Attempted to log into ChatGPT using a Proton email account. Because no standalone password was established during initial sign-up, the account requires continuous email verification codes. The initial verification code email failed to arrive.
 
-Now I always get "Unable to parse log dump as JSON file." and the file is, whether I had one or 20 wbepages opened, 671 MB. Trying to mitigate the unexmplained so large file, I set all the tabs where I had loaded a webpage with the Network conditions Network Offline. I only have the chatGPT and Proton email online. I request a second email with the so-called login code, and apparently an email arrives wiht the timestamp of the second request. I open it after I didged the fuckery tip tools and  modals galore, and then enter the code, and chatGPT issues the error 
+Email Interface Obstructions: Navigating the Proton webmail client required bypassing persistent UI modals, tooltips, and promotional pop-ups.
+
+Net-Export Memory Limit Failure: Following recent Chrome behavior (v151+), the browser's internal capture mechanism truncates net-export files when memory capacity thresholds are hit. Regardless of whether 1 or 20 tabs are open, the resulting log files consistently bottleneck at 671 MB, rendering them unparseable at [https://netlog-viewer.appspot.com/](https://netlog-viewer.appspot.com/) with the standard error: "Unable to parse log dump as JSON file."
+
+Mitigation Attempt: To reduce file size and isolate network traffic, all background tabs were set to "Network Offline" via Network Conditions, leaving only the ChatGPT and Proton email tabs active.
+
+Second Verification Request & Error: A second verification code was requested. Upon arrival of the corresponding email timestamp, the code was retrieved past the interface overlays and entered into ChatGPT. The system rejected the input with the following error:
 
 "Oops!
 We ran into an issue while signing you in, please take a break and try again soon.
