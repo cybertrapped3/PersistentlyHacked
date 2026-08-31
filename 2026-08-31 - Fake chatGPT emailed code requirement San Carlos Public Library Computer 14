@@ -1,4 +1,4 @@
-Authentication Process & Delay: Attempted to log into ChatGPT using a Proton email account. Because no standalone password was established during initial sign-up, the account requires continuous email verification codes. The initial verification code email failed to arrive.
+Authentication Process & Delay: Attempted to log into ChatGPT using a Proton email account. Because no standalone password was established (likely HTML tampering by hackers who contorl the passwor dof the account. I cannot even request a reset password) during initial sign-up, the account requires continuous email verification codes. The initial verification code email failed to arrive.
 
 Email Interface Obstructions: Navigating the Proton webmail client required bypassing persistent UI modals, tooltips, and promotional pop-ups.
 
@@ -16,3 +16,5 @@ Go back"
 I shared the chrome net-export through archive.org: https://archive.org/details/chrome-net-export-2026-08-31_corrupted-chrome-net-export-log-cybertrapped-disabl
 
 To view all the files that get geerated when I share a file: https://archive.org/download/chrome-net-export-2026-08-31_corrupted-chrome-net-export-log-cybertrapped-disabl
+
+@ 13:50 hors: I went back to https://chatgpt.com/auth/login, and after I entered the email associated with the account, after I clicked the "Continue" button... voila... I was logged in. This is how these fuckers roll... gas light... gas light... gas light...
