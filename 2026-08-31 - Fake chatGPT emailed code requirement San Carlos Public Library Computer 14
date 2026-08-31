@@ -1,0 +1,12 @@
+As I tried to login to ChatGPT (when I signed up I was not presented with the option to set a password, and the hackers somehow got the account to fore me into having to get an emailed code everytime I am trying to login) I did not received the first code. I use proton email, and also, the HTML is corrupted and is always presenting modals and tooltips with offers and such, so I try to dodge their fuckeries. THe supposed email with code was not arriving. In the last few days, since Chrome version 151, I am disabled from recording the chrome net-export b/c apparently the memory (which in the past worked perfectly fine) now cannot handle such large files and it stops capturing the net-export. In otherwords, it truncates the file, and I cannot upload it to https://netlog-viewer.appspot.com/
+
+Now I always get "Unable to parse log dump as JSON file." and the file is, whether I had one or 20 wbepages opened, 671 MB. Trying to mitigate the unexmplained so large file, I set all the tabs where I had loaded a webpage with the Network conditions Network Offline. I only have the chatGPT and Proton email online. I request a second email with the so-called login code, and apparently an email arrives wiht the timestamp of the second request. I open it after I didged the fuckery tip tools and  modals galore, and then enter the code, and chatGPT issues the error 
+
+"Oops!
+We ran into an issue while signing you in, please take a break and try again soon.
+
+Go back"
+
+I shared the chrome net-export through archive.org: https://archive.org/details/chrome-net-export-2026-08-31_corrupted-chrome-net-export-log-cybertrapped-disabl
+
+To view all the files that get geerated when I share a file: https://archive.org/download/chrome-net-export-2026-08-31_corrupted-chrome-net-export-log-cybertrapped-disabl
