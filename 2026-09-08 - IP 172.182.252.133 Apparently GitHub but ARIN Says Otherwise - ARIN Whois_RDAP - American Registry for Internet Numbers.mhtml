@@ -1,3 +1,5 @@
+NETWORK LOG FROM CHROME: 500 Internal Server Error: https://raw.githubusercontent.com/cybertrapped3/JOURNAL/refs/heads/main/2026-09-08%20-%20GitHub%20500%20Server%20Errors%20Creating%20log_GitHub_Followers?token=GHSAT0AAAAAAEILUPGRAZDJJ4STYPHT3BJW2VAKKLQ
+final network log (.har) which included the 500 error instance, and the 200 it worked instance, and although same action, two different IP addresses: https://raw.githubusercontent.com/cybertrapped3/JOURNAL/refs/heads/main/2026-09-08%20-%20GitHub%20500%20Server%20Errors%20Creating%20log_GitHub_Followers%20When%20Screenrecording%20it%20Worked.har?token=GHSAT0AAAAAAEILUPGROMMSGB45T5OAF76C2VALVGA
 From: <Saved by Blink>
 Snapshot-Content-Location: https://search.arin.net/rdap/?query=172.182.252.133
 Subject: ARIN Whois/RDAP - American Registry for Internet Numbers
