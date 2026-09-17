@@ -1,0 +1,37 @@
+[1016/093859.294:VERBOSE1:setup_main.cc(1375)] Command Line: "C:\Program Files\Google\Chrome\Application\129.0.6668.101\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --channel=stable
+[1016/093859.294:VERBOSE1:setup_main.cc(1381)] system install is 1
+[1016/093859.296:VERBOSE1:installer_state.cc(87)] Install Chrome
+[1016/093859.339:VERBOSE1:install_util.cc(247)] Windows NT 10.0.22631
+[1016/093859.341:VERBOSE1:install_worker.cc(1059)] Adding unregistration items for per-user Metro keys.
+[1016/093859.341:VERBOSE1:work_item_list.cc(32)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[1016/093859.341:VERBOSE1:registry_util.cc(23)] Deleting registry key Software\Google\Chrome\Metro
+[1016/093859.341:VERBOSE1:registry_util.cc(23)] Deleting registry key Software\Google\Chrome\Metro
+[1016/093859.341:VERBOSE1:work_item_list.cc(53)] Successful execution of work item list Cleanup deprecated per-user registrations
+[1016/093859.341:VERBOSE1:install.cc(531)] Launching ""C:\Program Files\Google\Chrome\Application\129.0.6668.101\Installer\chrmstp.exe" --channel=stable --system-level --verbose-logging --installerdata="C:\Program Files\Google\Chrome\Application\initial_preferences" --create-shortcuts=1 --install-level=0" to create shortcuts
+[1016/093859.356:VERBOSE1:setup_main.cc(1375)] Command Line: "C:\Program Files\Google\Chrome\Application\129.0.6668.101\Installer\chrmstp.exe" --channel=stable --system-level --verbose-logging --installerdata="C:\Program Files\Google\Chrome\Application\initial_preferences" --create-shortcuts=1 --install-level=0
+[1016/093859.357:VERBOSE1:setup_main.cc(1381)] system install is 1
+[1016/093859.357:VERBOSE1:installer_state.cc(87)] Install Chrome
+[1016/093859.374:VERBOSE1:install_util.cc(247)] Windows NT 10.0.22631
+[1016/093859.376:VERBOSE1:install.cc(120)] Creating per-user Desktop "Google Chrome" shortcut to C:\Program Files\Google\Chrome\Application\chrome.exe.
+[1016/093859.376:VERBOSE1:install.cc(120)] Creating per-user Quick Launch "Google Chrome" shortcut to C:\Program Files\Google\Chrome\Application\chrome.exe.
+[1016/093859.391:VERBOSE1:install.cc(120)] Creating per-user Start menu "Google Chrome" shortcut to C:\Program Files\Google\Chrome\Application\chrome.exe and pinning to the taskbar.
+[1016/093859.391:ERROR:shell_util.cc(1781)] Failed to pin to taskbar C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk
+[1016/093859.393:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files\Google\Chrome\Application\SetupMetrics\10288_13373570339392320.pma
+[1016/093859.395:VERBOSE1:install.cc(547)] Shortcut creation process succeeded.
+[1016/093859.399:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files\Google\Chrome\Application\SetupMetrics\7696_13373570339398025.pma
+[0917/102402.041:VERBOSE1:chrome\installer\setup\setup_main.cc:1538] Command Line: "C:\Program Files\Google\Chrome\Application\153.0.8010.48\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --force-configure-user-settings
+[0917/102402.041:VERBOSE1:chrome\installer\setup\setup_main.cc:1544] system install is 1
+[0917/102402.041:VERBOSE1:chrome\installer\setup\installer_state.cc:86] Install Chrome
+[0917/102402.075:VERBOSE1:chrome\installer\util\install_util.cc:249] Windows NT 10.0.22631
+[0917/102402.076:VERBOSE1:chrome\installer\setup\install.cc:401] Launching ""C:\Program Files\Google\Chrome\Application\153.0.8010.48\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\Google\Chrome\Application\initial_preferences" --create-shortcuts=1 --install-level=0" to create shortcuts
+[0917/102402.107:VERBOSE1:chrome\installer\setup\setup_main.cc:1538] Command Line: "C:\Program Files\Google\Chrome\Application\153.0.8010.48\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\Google\Chrome\Application\initial_preferences" --create-shortcuts=1 --install-level=0
+[0917/102402.107:VERBOSE1:chrome\installer\setup\setup_main.cc:1544] system install is 1
+[0917/102402.107:VERBOSE1:chrome\installer\setup\installer_state.cc:86] Install Chrome
+[0917/102402.141:VERBOSE1:chrome\installer\util\install_util.cc:249] Windows NT 10.0.22631
+[0917/102402.143:VERBOSE1:chrome\installer\setup\install.cc:111] Creating per-user Desktop "Google Chrome" shortcut to C:\Program Files\Google\Chrome\Application\chrome.exe.
+[0917/102402.143:VERBOSE1:chrome\installer\setup\install.cc:111] Creating per-user Quick Launch "Google Chrome" shortcut to C:\Program Files\Google\Chrome\Application\chrome.exe.
+[0917/102402.159:VERBOSE1:chrome\installer\setup\install.cc:111] Creating per-user Start menu "Google Chrome" shortcut to C:\Program Files\Google\Chrome\Application\chrome.exe and pinning to the taskbar.
+[0917/102402.160:ERROR:chrome\installer\util\shell_util.cc:1729] Failed to pin to taskbar C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk
+[0917/102402.162:ERROR:base\metrics\persistent_histogram_storage.cc:153] Persistent histograms fail to write to file: C:\Program Files\Google\Chrome\Application\SetupMetrics\1360_13434139442161610.pma
+[0917/102402.164:VERBOSE1:chrome\installer\setup\install.cc:417] Shortcut creation process succeeded.
+[0917/102402.170:ERROR:base\metrics\persistent_histogram_storage.cc:153] Persistent histograms fail to write to file: C:\Program Files\Google\Chrome\Application\SetupMetrics\6012_13434139442169558.pma
