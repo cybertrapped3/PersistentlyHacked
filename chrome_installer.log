@@ -1,5 +1,5 @@
 [1016/093859.294:VERBOSE1:setup_main.cc(1375)] Command Line: "C:\Program Files\Google\Chrome\Application\129.0.6668.101\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --channel=stable
-[1016/093859.294:VERBOSE1:setup_main.cc(1381)] system install is 1
+[1016/093859.294:VERBOSE1:setup_main.cc(1381)] system install is 1 
 [1016/093859.296:VERBOSE1:installer_state.cc(87)] Install Chrome
 [1016/093859.339:VERBOSE1:install_util.cc(247)] Windows NT 10.0.22631
 [1016/093859.341:VERBOSE1:install_worker.cc(1059)] Adding unregistration items for per-user Metro keys.
