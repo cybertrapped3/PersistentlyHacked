@@ -7,6 +7,7 @@ FILENAME: 2026-09-28 - Gemini conversation controlled by hackers while using San
 FILE SIZE: 42.58 MB
 CREATION DATE AND TIME: 9/28/2026, 11:53:16 AM
 FILE SHA-256 HASH: c3b24cd0a53f9d27ec8c6479af60a040e8d524c30e6c1dce92b05ba8053c6b21
+You can access the original file here: https://archive.org/download/2026-09-28-gemini-conversation-controlled-by-hackers-while-using-san-carlos-comp/2026-09-28%20-%20Gemini%20conversation%20controlled%20by%20hackers%20while%20using%20San%20Carlos%20Computers%20in%20San%20Mateo%20County%20-%20NETWORK%20LOG.har
 
 The file was broken into four parts: 
 
@@ -25,3 +26,9 @@ SHA-256: 6dd50dd3028ed4d88099de6128ada5c16f4756c826837c7ec2177746cddd0121
 Part 4 (9.58 MB)
 SHA-256: f2b0edcff39a0d9cba403be015b8370201e274f5edf0986e562c8e6b0ed6885d
 "2026-09-28 - Gemini conversation controlled by hackers while using San Carlos Computers in San Mateo County - NETWORK LOG_part4_f2b0edcff39a0d9cba403be015b8370201e274f5edf0986e562c8e6b0ed6885d.har"
+
+During the collecting, storing, and the trying to upload the files I recorded the screen. The videos also show how the hackers disrupted what I was trying to do. At the end, I generated 3 webm video files. You can watch these here: https://archive.org/details/2026-09-28-gemini-conversation-controlled-by-hackers-while-using-san-carlos-comp 
+
+**I am unsure why archive.org created an mp4 video and list it as part of the original files. I did not uploaded any mp4 file. The video files I uploaded were 3 webm videos files.**
+
+The list of all the files in the archive.org can be accessed here (although the url has a download segement, no download is triggered when you load the webpage): https://archive.org/download/2026-09-28-gemini-conversation-controlled-by-hackers-while-using-san-carlos-comp
