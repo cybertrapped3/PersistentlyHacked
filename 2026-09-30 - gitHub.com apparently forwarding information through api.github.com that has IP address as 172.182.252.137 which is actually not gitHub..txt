@@ -1,0 +1,136 @@
+Chrome network log has many entries like (view NETWORK LOG AND CONSOLE LOG):
+
+Request URL
+https://api.github.com/_private/browser/rum?ddforward=%2Fapi%2Fv2%2Frum%3Fddsource%3Dbrowser%26dd-api-key%3DeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaEpoZFhSb1pXNTBhV05oZEdWa0Jqb0dSVlE9IiwiZXhwIjoiMjAyNi0xMC0wMVQxOToxNzowNC4xNzZaIiwicHVyIjoiYnJvd3Nlcl9zdGF0czpjbGllbnRfdG9rZW4ifX0--9beff2ab0a8f27456aeea0b81f1012d7ed4e94e9%26dd-evp-origin-version%3D7.11.0%26dd-evp-origin%3Dbrowser%26dd-request-id%3D8a2a047c-482a-447e-a766-5264002c9fbe%26dd-evp-encoding%3Ddeflate%26batch_time%3D1790796109413%26_dd.api%3Dfetch
+Request method
+POST
+Status code
+202 Accepted
+Remote address
+172.182.252.137:443
+
+PAYLOAD: 
+
+x��T]��6�/~�ol0G���˶����=$���I6����v����g�|��n#��0�� ;R[K�u��C}?un �lG���@lG���8{��L0EX=���C�
+��BW���׷g�G�ڮ�㳦ؑു_�ѣ}�}Ni�g��v������~��z�;|�JI���B��qY򒬾 gBy%3V�B\�`=�}g���
+nQHjr��(�6T��rhs�ym�#Y��T%��d
+Sz��@�x����5:�}��S�t��]8�͛q�4-x���W�B���
+�敦�2�6:�T�X!
+��@�ҡ������m�	�����w�~��ی�Bs��fJPQ�X���D���dY5��6v��� zAR`Bw��-q"�0OX8���M�kq��A7[t	Zg2k��lFE�e��!����<k�%^��!�ᴾ<�5�M���9�g�H�B�����l������b�Q4w���+�K�RjBl�3���x�yX�Xh�n�QOӷ�>�~߆p�ЙMb�C�S�H������|���ـ>���9Aw<��W����-��a(f��ZוT ����QYk��(K�,U(�F����H$[ɹL�f����b@c
+�L��U�H�ma��{��d�ҷ���`N:C8���߿~#��u��h�����qI�ň�#u�m%�î�T�`���i�n�J��
+t����?q3U�Db
+�n�ū��KC�*�x<Ä˸�Dº��;���fȥ�D�#��ȓ��v~
+us�l�����G?������ԟ
+�� vٵ���W��4�/��K�V��g0g���ER�n�R�'�8�d��vt�Ogv������}�㋧~��A�q��v0\H;�h�[��-�n���������=�0���D��bs������ǭ��1��O�s7ݟAPK ��
+�I��f�O�S�y�LB3ث=>^�A�d�o�bY1䏕��X���8Z�D��.o)�~�AԦ��M镀�6L�	��� ��I�=����ؙ����M
+� �	ίv����z�*	*h#�V7#3߼�c�ɏ����э�a�
+ɔդ�t���៝��~��*�O%�T`�Ɂx����"zd�4w��?�}|J�����x�}'�:t����,��p��������kc��N�h�1�jCSK�T�$#ݔ4K`�%�&�Y��cJ�y���I�J�aa��gIJMF�z��	r�џ_����)��_���-��*�LG���bo{�fi�i��4e��D#]K`N7%9�"�$-�4�(u���؈�r/� sh�x��왻
+�0D'B�cǟuB��#`�HDDC�W��$��(�A�@<C���S�s����VEַEe���3sf�X��cMѿ��R���͍k����yS�i�6���x���{z�4�ys�Ğ=��n|Bs�����=
+� ��/��8����7t�]�H����������<%�H�\��9 ��Wy=�������8�D��C��yҙCC���"^{m�m�r�a<a]�A��:�ޖ%�F�Xy"EEO��#e��BT)�b 1g�'T/�
+�G����G�,�����P#��&g$�e���::�JѴ|��a
+�s���-R�'�C('���I�)I-��T��X檔����<�N���
+R����Yjr�I���nb��������n��A�.P���0������X��-<��B�*�>�WIҷ����ڽ
+�0��'
+���*N���J����N-�P��~��ǅ
+DH��XVd��h.)&F��|�8��=��m���.q_l�T�@.��]�N9��q__�U�۪���Q����9\N?s�X�p������8N�t����n3��ޠ�_���]� �OTm;z/��E�ǌS<�lK�X\�}��&�B�迟���Q3-)'!E��^��(�
+B�
+�kr
+�ÒU���h��#ΎUBx���M������p�q1d-�$x�B�22��@^�'Eӄ]��Fc�������
+~�U<tEzm�sq�GY����lV��L�d�_ A�g(�f@/�@�pQ�~�m:C��;��.�IG��
+"{cF���r���q����<�7[������=����1�0���4Ml�mZ*q����q����^��z�7�X[=�B5)W&"��Xf�� �:nM�_�&�W�w��	4WkFY����w��RBn�\Q��=����by ^���[����I� EOdRi������`��х�C�w�����S����a���[�d�4+#fIZ
+ڈY�܁oN����1�2:d�
+��.L"��k������Z�M�a�������{�K�r�ԃgs}cd����ĩ�:x��,�n���������	� ЕL��u�t�����P��K<���CbW��/�tl��C�����A��X}����8�>a(T��dm�!���;���5��1��0�q���� �A�
+A�v<Dz���K� DO�T��q�
+�?B�.��$
+�(�/�<��o�e���	�$Ӟ+������~U0������Oz��R�`��Z���|[+yr��sE�����|�s�l>4�\Y�S����u�[�WT8+���\1� {w-��A��_0�*����&4
+��` ���T���E��A�1D��^��:����	���u�"ҍ�.:�ĉ��l�u.���Q[cF�@ӐOo�N���Z��H]m�m��@���X�^�<;���5u�
+cc�Nt������|Ǟ�Qrb������a"hr�\��at�
+R,��L�рz©%�~��b*��JO�K�"���+%�� �P/X���A̧�Z.���� �y�	X-֪��RB
+��x�q�QTπ�S�w �����I
+� �	&����ߠR�Q찰�����>._��2�������C_ddA	��RWA0D)G�-Bb��ҵ��k�"Tv�5$�&0z�fS��8�@�ca�7�%� Show more
+
+But when I lookup whois 172.182.252.137:443 ( https://search.arin.net/rdap/?query=172.182.252.137 ): 
+
+Related Entities
+4 Entities
+Kind
+Individual
+Full Name
+Divya Quamara
+Handle
+DH5439-RIPE
+Telephone
++1-425-882-8080
+Address
+One Microsoft Way
+Redmond, WA 98052
+Roles
+Administrative
+Self
+https://rdap.db.ripe.net/entity/DH5439-RIPE
+Copyright
+http://www.ripe.net/data-tools/support/documentation/terms
+Port 43 Whois
+not provided
+Kind
+Individual
+Full Name
+MICROSOFT-MAINT
+Handle
+MICROSOFT-MAINT
+Roles
+Registrant
+Self
+https://rdap.db.ripe.net/entity/MICROSOFT-MAINT
+Copyright
+http://www.ripe.net/data-tools/support/documentation/terms
+Port 43 Whois
+not provided
+Kind
+Group
+Full Name
+Microsoft Routing, Peering, and DNS
+Handle
+MRPA3-RIPE
+Address
+One Microsoft Way
+Redmond, WA 98052
+Roles
+Technical
+Self
+https://rdap.db.ripe.net/entity/MRPA3-RIPE
+Copyright
+http://www.ripe.net/data-tools/support/documentation/terms
+Port 43 Whois
+not provided
+Kind
+Group
+Full Name
+Microsoft Abuse Contact
+Handle
+MAC274-RIPE
+Email
+abuse@microsoft.com
+Address
+One Microsoft Way
+Redmond, WA 98052
+Roles
+Abuse
+Port 43 Whois
+not provided
+Related Entities
+1 Entity
+Kind
+Individual
+Full Name
+MICROSOFT-MAINT
+Handle
+MICROSOFT-MAINT
+Roles
+Registrant
+Self
+https://rdap.db.ripe.net/entity/MICROSOFT-MAINT
+Copyright
+http://www.ripe.net/data-tools/support/documentation/terms
+Port 43 Whois
+not provided
