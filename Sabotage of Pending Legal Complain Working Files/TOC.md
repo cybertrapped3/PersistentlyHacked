@@ -1,3 +1,3 @@
-## 2026-09-09: EXHIBIT INDEX document with locked tracking changes reveals the hackers modified the formatting of elements (96 formatting changes), when what I only intended was to insert content describing one of the screen recordings I intend to use as evidence (2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4.txt)
+**2026-09-09**: EXHIBIT INDEX document with locked tracking changes reveals the hackers modified the formatting of elements (96 formatting changes), when what I only intended was to insert content describing one of the screen recordings I intend to use as evidence (2025-04-27_08-05-38_New iPhone 16 Pro Hacked During Verizon Instore eSIM Activation_RPReplay_Final1745766338.MP4.txt)
 * **SCREENSHOT**:
-  * UPLOADING:  
+  * https://github.com/cybertrapped3/PersistentlyHacked/blob/main/Sabotage%20of%20Pending%20Legal%20Complain%20Working%20Files/2026-10-09_14-25-57%20-%20Microsoft%20Word%20program%20shows%20the%20tracking%20changes%20review%20panel.%2096%20formatting%20changes%20made%20by%20hackers..png
