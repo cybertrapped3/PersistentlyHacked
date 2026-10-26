@@ -1,0 +1,7 @@
+Last week, I scanned a document using the San Carlos Public Library Multifuction Device (printer, scanner, fax machine). That day, I was taught that I could use a flash drive, I did not have one myself, but staff was kind enough to give me a new one. And so I scanned my file to the flsh drive. 
+
+After I uploaded the file to GitHub, it rendered differently than the way Chrome rendered the same file when loaded through as a local file (file:///D:/scanned_file.pdf). Also, the SHA256 of the file may have change for the online file. 
+
+Today, as I tried to scan a new document, the MFD did not recognized the flash drive, although the led of the drive lights up. I am leery because to me it became cleared that the mafia that controls computers and networks of the public libraries clearly did not want me to have that doc uploaded to GitHub. 
+
+I will wait for tech and see if the "new standard" is no flash drives.
