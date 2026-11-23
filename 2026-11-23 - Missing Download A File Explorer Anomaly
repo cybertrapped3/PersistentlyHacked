@@ -1,0 +1,11 @@
+While using the public computers at the San Carlos Public Library, in San Mateo County, California, I observed a new anomaly.
+
+Using Chrome, I downloaded a file from GitHub.com. I thought I had saved it to a folder I had created under the computer's user directory.
+
+I triggered the window switcher and selected the File Explorer window where I had been working with files in the folder I thought I had saved the download to. The file was not listed. I pressed Ctrl + R, and the file still was not listed. I tabbed to the Date column heading to bring it to the top, but the file was still not listed.
+
+I pressed the Windows key and, using the arrow keys, navigated to the File Explorer icon to open a new window. When the window opened, it remained blank for over two seconds. I knew then that the downloaded file was not being listed because the hackers had accessed my session, and the prolonged loading of the File Explorer window's contents was a symptom. I closed it.
+
+I triggered the Windows switcher again and selected the File Explorer window I had previously selected, the one where the downloaded file had not been listed. Once it was in focus, I pressed Ctrl + N, and a new File Explorer window opened with its contents appearing immediately. I saw that the file I had downloaded was at the top.
+
+What most people think are anomalies (which, in my case, would be so many at every turn) are often symptoms of a compromised system. Be mindful of what is happening on the screen. Also, if you screen-record one of your sessions, you may be surprised by the many things you don't notice in real time but that are noteworthy upon reviewing the recording.
